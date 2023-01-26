@@ -39,7 +39,7 @@ print("number of words ={}".format(num_word)
 ```
 
 ### OUTPUT:
-![](word%201.png)
+
 ![word count](https://user-images.githubusercontent.com/121418444/214814948-9ce9d77e-b287-4826-bc08-f738aefb0c96.png)
 
 
